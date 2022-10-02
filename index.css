@@ -11,3 +11,15 @@
 ul {
   list-style: none;
 }
+
+.user-container {
+  display: flex;
+  flex-direction:row;
+  height: 30px;
+  margin: 15px;
+}
+
+.avatar {
+width: 20px;
+height: 20px;
+}
